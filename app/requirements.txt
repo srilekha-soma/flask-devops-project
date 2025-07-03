@@ -1,0 +1,6 @@
+# specify the version of Flask that your Python application depends on.
+# So, this line tells pip: Install exactly Flask version 2.0.1, no more, no less.
+Flask==2.1.3   
+
+# toolbox - WSGI support — the protocol Flask uses to talk to web servers
+Werkzeug==2.0.3
